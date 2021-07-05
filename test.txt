@@ -1,0 +1,19 @@
+import libs
+
+load env 
+api integration 
+api authentication 
+
+input keyword and no.
+tweepy tweet search 
+
+data preprocessing 
+    Tokenizing sentences to break text down into sentences, words, or other units
+    Removing stop words like “if,” “but,” “or,” and so on
+    Normalizing words by condensing all forms of a word into a single form
+    Vectorizing text by turning the text into a numerical representation for consumption by your classifier
+
+
+classification 
+
+representation 
